@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<customer>
+    <name>SomeCustomerName</name>
+    <age>25</age>
+    <address>Miami Ocean Drive 1</address>
+</customer>
